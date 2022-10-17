@@ -1,0 +1,15 @@
+/Users/omarfares/Desktop/ATM machine/bin/Debug/net6.0/ATM machine
+/Users/omarfares/Desktop/ATM machine/bin/Debug/net6.0/ATM machine.deps.json
+/Users/omarfares/Desktop/ATM machine/bin/Debug/net6.0/ATM machine.runtimeconfig.json
+/Users/omarfares/Desktop/ATM machine/bin/Debug/net6.0/ATM machine.dll
+/Users/omarfares/Desktop/ATM machine/bin/Debug/net6.0/ATM machine.pdb
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.csproj.AssemblyReference.cache
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.AssemblyInfoInputs.cache
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.AssemblyInfo.cs
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.csproj.CoreCompileInputs.cache
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.dll
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/refint/ATM machine.dll
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.pdb
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ATM machine.genruntimeconfig.cache
+/Users/omarfares/Desktop/ATM machine/obj/Debug/net6.0/ref/ATM machine.dll
